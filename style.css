@@ -19,6 +19,9 @@ section{
         line-height: 20px;
     
 }
+#span{
+    color:brown;
+}
 section p{
     font-family: 'Courier New', Courier, monospace;
 }
@@ -118,4 +121,17 @@ section p{
 #third-list{
    
     margin-right:10%;
+}
+.footer{
+    text-align: center;
+   border: cornflowerblue;
+    margin-top:40px;
+    padding:50px;
+    background-color:burlywood; 
+    color:gray;
+    
+}
+#span{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
