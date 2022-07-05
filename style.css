@@ -90,12 +90,32 @@ section p{
 }
 .list{
     display:flex;
-    align-items:stretch;
+    align-items: center;
     width:80%;
-    height:40%;
+    height:20%;
     margin-left:8%;
     margin-right:8%;
     margin-top:40px;
     border-radius:15px;
     padding:50px;
-    background-color: antiquewhite;
+    background-color:antiquewhite;
+    font-size: large;
+}
+#first-list{
+ 
+    margin-left:10%;
+    
+   
+}
+#second-list{
+    
+    margin-left:10%;
+    margin-right:10%;
+
+}
+
+
+#third-list{
+   
+    margin-right:10%;
+}
